@@ -258,3 +258,4 @@ if (!function_exists('card_elements_plugin_deactivation')) {
 
 }
 register_deactivation_hook(__FILE__, 'card_elements_plugin_deactivation');
+
